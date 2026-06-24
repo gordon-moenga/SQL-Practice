@@ -1,6 +1,6 @@
 # For each doctor, display their id, full name, and the first and last admission date they attended.
 
-  select
+SELECT
 	d.doctor_id,
 	concat(d.first_name, ' ', d.last_name) as full_name,
 	MAX(a.admission_date) AS last_admission, 
