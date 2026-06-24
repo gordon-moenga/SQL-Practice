@@ -1,6 +1,6 @@
 # Show first_name, last_name, and the total number of admissions attended for each doctor.
 
-select
+SELECT
 	d.first_name, d.last_name,
     COUNT(a.attending_doctor_id) AS admission_total
 FROM doctors as d
