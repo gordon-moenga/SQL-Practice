@@ -6,4 +6,4 @@ SELECT
 from patients
 WHERE allergies is NOT NULL
 GROUP BY allergies
-ORDER BY total_diagnosis DEsc
+ORDER BY total_diagnosis DEsc;
