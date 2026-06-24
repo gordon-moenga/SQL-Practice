@@ -1,5 +1,5 @@
 # Question
-Show all the columns from admissions where the patient was admitted and discharged on the same day.
+# Show all the columns from admissions where the patient was admitted and discharged on the same day.
 # Solution
 SELECT *
 FROM admissions
