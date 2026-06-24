@@ -6,4 +6,4 @@ SELECT
 from patients
 group by city 
 ORDER BY
-	num_patients DESC, city;
+	num_patients DESC, city ASC;
