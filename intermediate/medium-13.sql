@@ -4,4 +4,4 @@
 SELECT
 	concat(upper(last_name), ',', lower(first_name)) AS new_name_format
 FROM patients
-order by first_name desc
+order by first_name desc;
