@@ -15,3 +15,7 @@ It serves as a record of my progress, problem-solving approach, and growing prof
 - Easy
 - Intermediate
 - Hard
+
+## Platform
+
+Exercises completed using SQLPractice.
