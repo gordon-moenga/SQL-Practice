@@ -29,5 +29,3 @@ Through these exercises, I was able to:
 - Perform basic data analysis using aggregate functions
 - Improve logical and analytical thinking
 - Build a strong foundation for intermediate and advanced SQL topics
-## Platform
-Exercises completed using SQLPractice.
