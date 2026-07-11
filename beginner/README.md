@@ -31,6 +31,3 @@ Through these exercises, I was able to:
 - Build a strong foundation for intermediate and advanced SQL topics
 ## Platform
 Exercises completed using SQLPractice.
-## About This Repository
-This repository documents my SQL learning journey as part of my transition into Data Science.
-It serves as a record of my progress, problem-solving approach, and growing proficiency in SQL.
